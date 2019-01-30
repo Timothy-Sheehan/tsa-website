@@ -1,11 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Staatliches');
-
-@media screen and (max-width: 800px) {
-  .App {
-    text-align: center;
-    background-color:black;
-  }
-  }
   
   
   .App-header {

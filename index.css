@@ -6,6 +6,15 @@
     height:2900px;
     background-color:black;
   }
+  .songone{
+    position:relative;
+    float:left;
+  }
+  .songtwo{
+    position:relative;
+    float:left;
+  }
+  }
   
   
   .App-header {
